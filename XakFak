@@ -1,3 +1,7 @@
+//profile-title: Cloudflare_WARP
+//profile-update-interval: 24
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+
 warp://p1@188.114.96.222:1010?ifpm=m4
 warp://p1@188.114.98.100:945?ifpm=m4
 warp://p1@162.159.192.122:880?ifpm=m4
